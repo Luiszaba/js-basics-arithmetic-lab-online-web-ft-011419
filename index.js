@@ -13,3 +13,5 @@ const newID = 1000000000 + oldID
 const ageIsValid = Number.isInteger(2)
 
 const randomNumber = Math.random(1, 20)
+
+const randomInteger = Math.round(0.5)
